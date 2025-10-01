@@ -50,11 +50,6 @@ I enjoy working across multiple stacks, experimenting with new technologies, and
 
 ---
 
-## 🐍 GitHub Contribution Snake  
-![snake gif](https://github.com/Zeshriel/Zeshriel/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ## 💡 How I Work on GitHub  
 - 📌 Pinning my best projects to highlight relevant work  
 - 🔖 Using descriptive names & tags for discoverability  
